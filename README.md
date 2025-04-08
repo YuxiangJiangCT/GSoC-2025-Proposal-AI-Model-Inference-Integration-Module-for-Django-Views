@@ -1,14 +1,14 @@
 # GSoC-2025-Proposal-AI-Model-Inference-Integration-Module-for-Django-Views
 
 
-Project Information
+## Project Information
 	•	Project Title: AI Model Inference Integration Module for Django Views
 	•	Organization: Django Software Foundation (DSF)
 	•	Mentor: TBD (DSF Mentor)
 	•	Difficulty: Medium
 	•	Size: 350 hours (GSoC Standard Project)
 
-Project Overview
+### Project Overview
 
 Problem Statement
 
