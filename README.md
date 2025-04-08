@@ -1,0 +1,1 @@
+# GSoC-2025-Proposal-AI-Model-Inference-Integration-Module-for-Django-Views
